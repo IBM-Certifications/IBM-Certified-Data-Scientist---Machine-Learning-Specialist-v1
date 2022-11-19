@@ -5,10 +5,10 @@ Exam C1000-144: IBM Machine Learning Data Scientist v1
 Exam Objectives
 During exam development, the Subject Matter Experts (SMEs) define all of the tasks, knowledge and experience that an individual would need in order to successfully fulfill their role with the product or solution. These are represented by the objectives below and the questions on the exam are based upon these objective.
 
-Number of questions: 61
-Number of questions to pass: 45
-Time allowed: 90 minutes
-Status: Live
+* Number of questions: 61
+* Number of questions to pass: 45
+* Time allowed: 90 minutes
+* Status: Live
 
 Section 1
 - Evaluate business problem including ethical implications
